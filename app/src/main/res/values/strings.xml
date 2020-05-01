@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Add to Gallery</string>
+    <string name="instruction">
+        Instruction:\n
+        The app will only add jpg/jpeg, png, gif, bmp, mp4 and avi files to the gallery.
+        Other files you choose will be ignored.
+        If you choose folders, all the files of types above inside the folders
+        (not including the files in children folders, in other words, not recursive)
+        will be added to the gallery.
+    </string>
+    <string name="button">Choose files</string>
+</resources>
